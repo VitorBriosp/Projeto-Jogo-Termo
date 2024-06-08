@@ -18,6 +18,6 @@
   uma das palavras no banco de dados. 
 
 ## Detalhes:
-  - Como pode ver no [código]() a formatação que usei em alguns prints pode ser vista como antiquada ou talvez pudesse ser mais simplificada usando o modelo de formatação mais recente, bem, para me desafiar um pouco eu optei por escrever o código
+  - Como pode ver no [código](https://github.com/VitorBriosp/Projeto-Jogo-Termo/blob/main/codigo-do-projeto/codpython.py) a formatação que usei em alguns prints pode ser vista como antiquada ou talvez pudesse ser mais simplificada usando o modelo de formatação mais recente, bem, para me desafiar um pouco eu optei por escrever o código
   respeitando a linguagem 3.4 do python, ou seja, sem formatação usando f'';
   - É possível também completar ainda mais o código desenvolvendo o front-end. Como
