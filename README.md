@@ -4,7 +4,7 @@
   Esse código foi elaborado para simular o back-end do jogo [Termo](https://term.ooo).
   O código consiste em um jogo de adivinhação de uma palavra que contém 5 letras, as quais precisam ser adivinhadas em 10 tentativas
   com as seguintes regras:
-  - Uma palavra de 5 letras será escolhida aleatóriamente do banco de dados fornecidos => [texto.txt]();
+  - Uma palavra de 5 letras será escolhida aleatóriamente do banco de dados fornecidos => [texto.txt](https://github.com/VitorBriosp/Projeto-Jogo-Termo/blob/main/codigo-do-projeto/texto.txt);
   - O usuário irá inserir uma palavra de 5 letras, caso a palavra não se encaixe à regra, um erro será gerado pedindo para o usuário fornecer uma resposta válida;
   - Caso a palavra esteja correta, uma mensagem irá surgir parabenizando o usuário e falando em quantas tentativas ele acertou a resposta;
   - Caso a palavra contenha 5 letras, cada letra será comparada com a palavra secreta;
