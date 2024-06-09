@@ -20,8 +20,7 @@
 ## 💼 Detalhes:
   - Como pode ver no [código](https://github.com/VitorBriosp/Projeto-Jogo-Termo/blob/main/codigo-do-projeto/codpython.py) a formatação que usei em alguns prints pode ser vista como antiquada ou talvez pudesse ser mais simplificada usando o modelo de formatação mais recente, bem, para me desafiar um pouco eu optei por escrever o código
   respeitando a linguagem 3.4 do python, ou seja, sem formatação usando f'';
-  - É possível também completar ainda mais o código desenvolvendo um front-end básico em pouco tempo, basta implementar o microframework "Flaks" juntamente com o uso de html e css para estilizar o código à gosto;
-  - Como meu objetivo foi desenvolver o back-end do projeto eu optei por não seguir mais adiante.
+  - É possível também completar ainda mais o código desenvolvendo um front-end básico em pouco tempo, basta implementar o microframework "Flask" juntamente com o uso de html e css para estilizar o código à gosto, como meu objetivo foi desenvolver o back-end do projeto eu optei por não seguir mais adiante.
 
 ## ☹️ Final:
 - Segue aqui o vídeo de execução do projeto:
